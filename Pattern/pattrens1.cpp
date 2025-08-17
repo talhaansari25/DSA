@@ -224,7 +224,7 @@ int main()
 }
 */
 
-// 10. hollow inverted half pyramid
+//10. hollow inverted half pyramid
 
 /*
 #include<iostream>

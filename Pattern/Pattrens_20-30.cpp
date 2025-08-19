@@ -109,7 +109,7 @@ else spaces
 //    return 0;
 // }
 
-// 25. fancy pattern
+// 25. fancy patterns
 
 // ********1********
 // *******2*2*******

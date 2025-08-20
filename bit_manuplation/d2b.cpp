@@ -1,4 +1,4 @@
-//decimal to
+//decimal to binary
 
 // #include<iostream>
 // #include <math.h>

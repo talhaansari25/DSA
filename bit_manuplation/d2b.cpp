@@ -1,4 +1,4 @@
-//decimal 
+//decimal to
 
 // #include<iostream>
 // #include <math.h>

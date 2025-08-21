@@ -1,4 +1,4 @@
-// 1. solid rectangle
+// 1. solid rectangle pattern
 
 /*
  #include<iostream>

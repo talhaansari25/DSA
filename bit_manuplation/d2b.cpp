@@ -63,7 +63,7 @@
 //    return 0;
 // }
 
-// m1. division method in no form
+// M1. division method in no form
 
 // #include<iostream>
 // #include<cmath>

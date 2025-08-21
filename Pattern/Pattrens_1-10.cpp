@@ -19,7 +19,7 @@ int main()
 }
 */
 
-//2. hollow rectangles
+//2. hollow rectangle
 
 /*
 #include<iostream>

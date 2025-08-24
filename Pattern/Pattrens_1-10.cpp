@@ -53,7 +53,7 @@ int main()
    return 0;
 */
 
-// 3. solid square
+// 3. solid square pattern
 
 /*
 #include<iostream>

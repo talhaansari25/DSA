@@ -76,7 +76,7 @@ int main()
 
 */
 
-// 4.hollow squaure
+// 4.hollow squaure pattern
 
 /*
 #include<iostream>

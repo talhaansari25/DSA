@@ -107,7 +107,7 @@ int main()
 }
 */
 
-// 5. solid half pyramid
+// 5. solid half pyramid pattren
 
 
 #include<iostream>

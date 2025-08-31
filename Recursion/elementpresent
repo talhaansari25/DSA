@@ -49,3 +49,27 @@ int main()
 //     cout<<"element is Present at index "<<isPresent<<endl;;
 //    return 0;
 // }
+
+
+//6. c) return no. of occurence of key element
+// #include<iostream>
+// using namespace std;
+
+// void find(string& str, int& n, int  i, char& key ){
+//     if(i>=n){
+//        return;
+//     }
+//     if(str[i] == key ){
+//        cout<<"found at "<<i<<endl;
+//     }
+//     return find(str,n,i+1,key);
+// }
+// int main()
+// {
+//     string str = "lovebabbar";
+//     int n = str.length();
+//     int i = 0;
+//     char key = 'b';
+//     find(str,n,i,key);
+//    return 0;
+// }

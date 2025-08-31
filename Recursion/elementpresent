@@ -103,3 +103,29 @@ int main()
 //     cout<<endl;
 //    return 0;
 // }
+
+//6. e) count the no. of occurence
+// #include<iostream>
+// #include<vector>
+// using namespace std;
+
+// void find(string& str, int& n, int  i, char& key, int& count ){
+//     if(i>=n){
+//        return;
+//     }
+//     if(str[i] == key ){
+//     count++;
+//     }
+//     return find(str,n,i+1,key,count);
+// }
+// int main()
+// {
+//     string str = "lovebabbar";
+//     int n = str.length();
+//     int i = 0;
+//     char key = 'b';
+//     int count = 0; // want to inc count so pass by refrence
+//     find(str,n,i,key,count);
+//     cout<< count <<endl;
+//    return 0;
+// }

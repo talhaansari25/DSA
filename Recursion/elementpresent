@@ -104,7 +104,7 @@ int main()
 //    return 0;
 // }
 
-//6. e) count the no. of occurence
+//6. e) count the no. of occurenc
 // #include<iostream>
 // #include<vector>
 // using namespace std;

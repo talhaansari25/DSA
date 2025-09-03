@@ -74,7 +74,7 @@ int main()
 //    return 0;
 // }
 
-//6. d) dont print index store them
+//6. d) don't print index store them
 // #include<iostream>
 // #include<vector>
 // using namespace std;

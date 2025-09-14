@@ -1,3 +1,4 @@
+// method 1
 class Solution {
     public int getSecondLargest(int[] arr) {
 
